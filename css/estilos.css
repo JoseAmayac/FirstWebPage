@@ -1,0 +1,94 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.links{
+    color: white;
+    margin-right: -4px;
+    text-decoration: none;
+    display: inline-block;
+    width: 33%; 
+}
+.body{
+    padding-top: 15px;
+    padding-bottom: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.titu{
+    color: rgb(250,50,50);
+    font-size: 2.5em;
+    margin-top: 0px;
+    font-family: 'Lobster', cursive;
+}
+
+.cabecera{
+    background-color: #34495E;
+    text-align: center;
+    padding: 10px 10px 15px 15px;
+    border-radius: 4px;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.main-container{
+    min-height: 100vh;
+}
+
+.product img{
+    width: 150px;
+    height: 150px;
+}
+
+.product h3{
+    font-size: 1.7em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.card{
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgb(0,0,0,0.24);
+}
+
+.threeD{
+    text-shadow: 1px 3px 0px #6b251d, 1px 13px 5px rgb(171, 168, 168);
+}
+
+.delay-1{
+    animation-delay: 0.1s;
+    position: relative;
+    z-index: 5;
+}
+.delay-2{
+    animation-delay: 0.2s;
+    position: relative;
+    z-index: 4;
+}
+.delay-3{
+    animation-delay: 0.3s;
+    position: relative;
+    z-index: 3;
+}
+.delay-4{
+    animation-delay: 0.4s;
+    position: relative;
+    z-index: 2;
+}
+.delay-5{
+    animation-delay: 0.5s;
+    position: relative;
+    z-index: 1;
+}
+
+#contacto{
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
